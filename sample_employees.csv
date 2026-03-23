@@ -1,0 +1,6 @@
+id,name,email,department,position,salary,hire_date
+1,Alice Johnson,alice@company.com,Engineering,Senior Developer,95000,2020-03-15
+2,Bob Smith,bob@company.com,Marketing,Manager,78000,2019-07-22
+3,Carol White,carol@company.com,Engineering,Junior Developer,65000,2022-01-10
+4,David Brown,david@company.com,Sales,Representative,58000,2021-05-18
+5,Eva Martinez,eva@company.com,HR,Director,85000,2018-11-05
